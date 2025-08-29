@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+pyxlsb
+pyspark
+pyspark-pandas
+pyarrow
+dotenv
