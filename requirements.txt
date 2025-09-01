@@ -6,3 +6,6 @@ pyspark
 pyspark-pandas
 pyarrow
 dotenv
+scikit-learn
+fastapi[standard]
+boruta
